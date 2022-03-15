@@ -1,7 +1,18 @@
 body {
-	background-color:#68ecb9;
+	background-color: white;
 }
+/*estilo por id*/
 h1, h2, h3, h4, h5, h6 {
 	color:red;
 	text-align:center;
+}
+#par1 {
+	text-align: center;
+	color: #9F74E0;
+	font-size: 50px;
+	}
+/* estilo por clase*/
+.centrado {
+	text-align: center;
+	color: #008000;
 }
